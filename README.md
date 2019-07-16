@@ -1,4 +1,7 @@
 # ViajaNet_AlissonPrado
+
+Projeto Teste - Integração C# Core 2, com Javascritp de captação de Navegador , Title e IP com WebAPI REST, consumido por um Robot
+
 C# com WebApi Consumida Javascript e Json
 Commit Adicionado de todos os Projetos... 
   - Toda a evolução de construção está dentro do arquivo zipado para que possam entender a construção;
